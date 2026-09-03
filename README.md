@@ -1,30 +1,256 @@
-<h1 align="center">Hi 👋, I'm Bhumika Shree</h1>
-<h3 align="center">A passionate Full-Stack developer. AI & ML Learner and DSA and Problem Solving.</h3>
+<!-- ======================= HEADER ======================= -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhumika13-web&label=Profile%20views&color=0e75b6&style=flat" alt="bhumika13-web" /> </p>
+<h1 align="center">
+  Hi 👋, I'm Bhumika Shree
+</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhumika13-web" alt="bhumika13-web" /></a> </p>
+<h3 align="center">
+  💻 Full-Stack Developer | 🤖 AI & ML Learner | 🧩 DSA & Problem Solving
+</h3>
 
-- 🔭 I’m currently working on [OneDrop](https://github.com/Bhumika13-web/OneDrop)
-
-- 🌱 I’m currently learning **AI & ML**
-
-- 💬 Ask me about **Full Stack dev**
-
-- 📫 How to reach me **bhumikashree13@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bhumika-shree-6b3531298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhumika-shree-6b3531298" height="30" width="40" /></a>
-<a href="https://instagram.com/bhumikashree9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhumikashree9" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/bhumikas1305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhumikas1305" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/Bhumika13-web">
+    <img src="https://komarev.com/ghpvc/?username=bhumika13-web&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/Bhumika13-web?tab=followers">
+    <img src="https://img.shields.io/github/followers/Bhumika13-web?label=Followers&style=flat" alt="GitHub Followers"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/Bhumika13-web">
+    <img src="https://img.shields.io/github/stars/Bhumika13-web?style=flat&logo=github&label=Profile%20Stars" alt="GitHub Stars"/>
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhumika13-web&show_icons=true&locale=en&layout=compact" alt="bhumika13-web" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhumika13-web&show_icons=true&locale=en" alt="bhumika13-web" /></p>
+<!-- ======================= ABOUT ME ======================= -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhumika13-web&" alt="bhumika13-web" /></p>
+## 👩‍💻 About Me
+
+I'm a Computer Science student passionate about building **real-world applications**, solving programming problems, and exploring **Artificial Intelligence & Machine Learning**.
+
+- 🔭 Currently working on **OneDrop**
+- 🌱 Currently learning **AI & Machine Learning**
+- 💻 Interested in **Full-Stack Development**
+- 🧩 Practicing **DSA & Problem Solving**
+- 🚀 Building projects that solve practical problems
+- 🎯 Continuously learning and improving my development skills
+
+---
+
+<!-- ======================= GITHUB ANALYTICS ======================= -->
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=bhumika13-web&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=github_dark"
+    height="180"
+    alt="GitHub Stats"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhumika13-web&layout=compact&langs_count=8&hide_border=true&theme=github_dark"
+    height="180"
+    alt="Top Languages"
+  />
+</p>
+
+---
+
+<!-- ======================= CONTRIBUTION STREAK ======================= -->
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com/?user=bhumika13-web&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+---
+
+<!-- ======================= ACTIVITY GRAPH ======================= -->
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <a href="https://github.com/Bhumika13-web">
+    <img 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=bhumika13-web&theme=github-dark&hide_border=true&area=true"
+      alt="Bhumika's GitHub Activity Graph"
+    />
+  </a>
+</p>
+
+---
+
+<!-- ======================= PROFILE SUMMARY ======================= -->
+
+## 📌 GitHub Profile Summary
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhumika13-web&theme=github_dark"
+    alt="GitHub Profile Details"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bhumika13-web&theme=github_dark"
+    height="180"
+    alt="GitHub Statistics"
+  />
+
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhumika13-web&theme=github_dark"
+    height="180"
+    alt="Repositories by Language"
+  />
+</p>
+
+---
+
+<!-- ======================= TROPHIES ======================= -->
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=bhumika13-web&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1"
+    alt="GitHub Trophies"
+  />
+</p>
+
+---
+
+<!-- ======================= FEATURED PROJECTS ======================= -->
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🩸 OneDrop
+
+A full-stack blood donation platform designed to connect:
+
+- 🩸 Blood donors
+- 🏥 Recipients
+- 🏨 Hospitals
+- 🏦 Blood banks
+
+**Tech Stack**
+
+`MongoDB` `Express.js` `React.js` `Node.js`
+
+<br>
+
+<a href="https://github.com/Bhumika13-web/OneDrop">
+  <img src="https://img.shields.io/badge/View%20Project-000?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🎬 CineBook
+
+A movie booking web application featuring movie discovery, show timings and seat selection.
+
+**Tech Stack**
+
+`React.js` `Node.js` `Express.js` `MongoDB`
+
+<br>
+
+<a href="https://github.com/Bhumika13-web/CineBook-A-Movie-Booking-Website">
+  <img src="https://img.shields.io/badge/View%20Project-000?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<!-- ======================= TECH STACK ======================= -->
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,tailwind" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+</p>
+
+### 🤖 AI / ML
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" />
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,figma" />
+</p>
+
+---
+
+<!-- ======================= DSA ======================= -->
+
+## 🧩 DSA & Problem Solving
+
+I'm actively improving my problem-solving skills through:
+
+- Arrays & Strings
+- Linked Lists
+- Stack & Queue
+- Searching & Sorting
+- Hashing
+- Binary Search
+- Recursion
+- Time & Space Complexity
+- Competitive Programming
+
+### 💻 LeetCode
+
+<p align="center">
+  <a href="https://leetcode.com/bhumikas1305/">
+    <img src="https://img.shields.io/badge/LeetCode-bhumikas1305-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+</p>
+
+---
+
+<!-- ======================= CURRENTLY LEARNING ======================= -->
+
+## 🌱 Currently Learning
+
+```text
+AI & Machine Learning
+        ↓
+Full-Stack Development
+        ↓
+Data Structures & Algorithms
+        ↓
+Building Real-World Projects
