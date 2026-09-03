@@ -235,8 +235,8 @@ I'm actively improving my problem-solving skills through:
 ### 💻 LeetCode
 
 <p align="center">
-  <a href="https://leetcode.com/bhumikas1305/">
-    <img src="https://img.shields.io/badge/LeetCode-bhumikas1305-orange?style=for-the-badge&logo=leetcode" />
+  <a href="https://leetcode.com/u/Bhumika_S1503/">
+    <img src="https://img.shields.io/badge/LeetCode-Bhumika__S1503-orange?style=for-the-badge&logo=leetcode" />
   </a>
 </p>
 
